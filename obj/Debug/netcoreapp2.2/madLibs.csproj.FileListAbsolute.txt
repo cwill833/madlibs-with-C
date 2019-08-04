@@ -1,0 +1,11 @@
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/bin/Debug/netcoreapp2.2/madLibs.deps.json
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/bin/Debug/netcoreapp2.2/madLibs.runtimeconfig.json
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/bin/Debug/netcoreapp2.2/madLibs.runtimeconfig.dev.json
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/bin/Debug/netcoreapp2.2/madLibs.dll
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/bin/Debug/netcoreapp2.2/madLibs.pdb
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.csprojAssemblyReference.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.csproj.CoreCompileInputs.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.AssemblyInfoInputs.cache
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.AssemblyInfo.cs
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.dll
+/Users/chriswilliams/Desktop/Dev/c#_work/madLibs/obj/Debug/netcoreapp2.2/madLibs.pdb
